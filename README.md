@@ -33,7 +33,7 @@ Full Stack Developer - Working in freelancer job.
 ------------
 
 ## 📚 Learning
-<img src="https://secure.meetupstatic.com/photos/event/d/a/3/7/600_477715863.jpeg?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png?raw=true" height="32" /><img src="https://secure.meetupstatic.com/photos/event/d/a/3/7/600_477715863.jpeg?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png?raw=true" height="32" />
 
 ------------
 
