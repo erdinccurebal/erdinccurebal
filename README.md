@@ -41,7 +41,7 @@ Full Stack Developer - Working in freelancer job.
 ## 📫 How to reach me
 You can find and get touch with me on these accounts!
 
-[![WebSite Badge](https://img.shields.io/badge/erdinccurebal-go%20to%20website-blue?style=for-the-badge&logo=angular)](https://erdinccurebal.com/)
+[![WebSite Badge](https://img.shields.io/badge/erdinccurebal-go%20to%20website-blue?style=for-the-badge&logo=angular)](https://erdinccurebal.com.tr/)
 
 [![Linkedin Badge](https://img.shields.io/badge/erdinccurebal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdinccurebal/)
 
