@@ -43,6 +43,8 @@ You can find and get touch with me on these accounts!
 
 [![Web Site TR](https://img.shields.io/badge/erdinccurebal.com.tr-go%20to%20tr%20website-blue?style=for-the-badge&logo=angular)](https://erdinccurebal.com.tr)
 
+[![Web Site ENG](https://img.shields.io/badge/erdinccurebal.com-go%20to%20eng%20website-blue?style=for-the-badge&logo=angular)](https://erdinccurebal.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/erdinccurebal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdinccurebal/)
 
 [![Twitter Badge](https://img.shields.io/badge/nurcanerdinc-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/nurcanerdinc/)
