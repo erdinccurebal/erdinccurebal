@@ -47,10 +47,4 @@ You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/erdinccurebal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erdinccurebal/)
 
-[![Twitter Badge](https://img.shields.io/badge/nurcanerdinc-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/nurcanerdinc/)
-
-[![Facebook Badge](https://img.shields.io/badge/erdinccurebal-follow%20on%20facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/erdinccurebal/)
-
-[![Youtube Badge](https://img.shields.io/badge/erdinccurebal-follow%20on%20youtube-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCsQvoCglvPw__ADrVN-Iaaw)
-
 [![Mail Badge](https://img.shields.io/badge/iletisim@erdinccurebal.com.tr-Content%20me%20on%20mail-blue?style=for-the-badge&logo=gmail)](mailto:iletisim@erdinccurebal.com.tr)
