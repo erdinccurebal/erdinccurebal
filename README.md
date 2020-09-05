@@ -53,4 +53,4 @@ You can find and get touch with me on these accounts!
 
 [![Youtube Badge](https://img.shields.io/badge/erdinccurebal-follow%20on%20youtube-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCsQvoCglvPw__ADrVN-Iaaw)
 
-[![Mail Badge](https://img.shields.io/badge/erdinccurebal@hotmail.com-Content%20me%20on%20mail-blue?style=for-the-badge&logo=gmail)](mailto:erdinccurebal@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/iletisim@erdinccurebal.com.tr-Content%20me%20on%20mail-blue?style=for-the-badge&logo=gmail)](mailto:iletisim@erdinccurebal.com.tr)
