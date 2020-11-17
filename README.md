@@ -16,7 +16,7 @@ Full Stack Developer - Working in freelancer job.
 #### Backend Development: <img src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png?raw=true" height="32" /><img src="https://cdn.iconscout.com/icon/free/png-512/sequelize-1175001.png" height="32" />
 #### Desktop Development: <img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32" />
 #### Mobile Development: <img src="https://secure.meetupstatic.com/photos/event/d/a/3/7/600_477715863.jpeg?raw=true" height="32" />
-#### Database Development: <img src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png?raw=true" height="32" />
+#### Database Development: <img src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png" height="32" /> 
 
 ------------  
 
