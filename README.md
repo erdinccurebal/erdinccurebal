@@ -13,7 +13,7 @@ Full Stack Developer - Working in freelancer job.
 
 ## <img src="https://image.flaticon.com/icons/svg/3094/3094357.svg?raw=true" height="28" /> Main Using
 #### Frontend Development: <img src="https://github.com/github/explore/blob/master/topics/react/react.png?raw=true" height="32" /><img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" />
-#### Backend Development: <img src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png?raw=true" height="32" />
+#### Backend Development: <img src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png" height="32" /><img src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png?raw=true" height="32" /><img src="https://cdn.iconscout.com/icon/free/png-512/sequelize-1175001.png" height="32" />
 #### Desktop Development: <img src="https://github.com/github/explore/blob/master/topics/electron/electron.png?raw=true" height="32" />
 #### Mobile Development: <img src="https://secure.meetupstatic.com/photos/event/d/a/3/7/600_477715863.jpeg?raw=true" height="32" />
 #### Database Development: <img src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png?raw=true" height="32" />
