@@ -7,7 +7,7 @@ My name is Erdinç Cürebal, I'm based in Turkey
 
 
 ## 💼 Job
-Full Stack Developer - Working in freelancer job.
+NodeJS - Full Stack Developer - Working in freelancer job.
 
 ------------
 
