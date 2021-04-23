@@ -13,7 +13,7 @@ NodeJS - Full Stack Developer - Working in freelancer job.
 
 ## <img src="https://image.flaticon.com/icons/svg/3094/3094357.svg?raw=true" height="28" /> Main packages i using
 #### Frontend: NuxtJS, VueJS
-#### Backend: ExpressJS, NestJS, GraphqlJS
+#### Backend: ExpressJS, NestJS, GraphqlJS, StrapiJS
 #### Desktop: ElectronJS, PuppeteerJS
 #### Mobile: IonicJS - VueJS
 #### Database: Typeorm, Mongoose, Sequelize
