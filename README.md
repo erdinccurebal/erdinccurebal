@@ -16,7 +16,8 @@ NodeJS - Full Stack Developer - Working in freelancer job.
 #### Backend: ExpressJS, NestJS, GraphqlJS, StrapiJS
 #### Desktop: ElectronJS, PuppeteerJS
 #### Mobile: IonicJS - VueJS
-#### Database: Typeorm, Mongoose, Sequelize
+#### DB Orm: Typeorm, Mongoose, Sequelize
+#### Database Types: NoSQL, SQL
 #### Another: Typescript, Webpack, Eslint, Tslint
 
 ------------  
