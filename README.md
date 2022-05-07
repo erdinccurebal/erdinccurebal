@@ -17,7 +17,7 @@
 
 ### Main skill:
 
-![Node.JS](https://img.shields.io/badge/-Node.js-555555?style=for-the-badge&logo=node.js&labelColor=404040)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
 ### Backend skills:
 
