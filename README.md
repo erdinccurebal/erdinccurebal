@@ -17,7 +17,7 @@
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=erdinccurebal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=149414&fire=149414&currStreakLabel=149414" alt="Erdinç Cürebal" /></div>
 
-### Main skills:
+### Main skill:
 
 ![Express.JS](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
