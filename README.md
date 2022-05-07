@@ -8,11 +8,9 @@
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=erdinccurebal&theme=github&hide_border=true&area=true&line=2b5329&color=149414&point=9ccc9c" />
 </div> 
 
-
-<div align="center">  
-
-  <img width="50" height="auto" src="https://github-readme-stats.vercel.app/api?username=erdinccurebal&show_icons=true&count_private=true&hide_border=true&title_color=149414&icon_color=149414&text_color=c9d1d9&bg_color=0d1117" alt="erdinccurebal github stats" /> 
-  <img width="50" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdinccurebal&layout=compact&hide_border=true&title_color=149414&text_color=149414&bg_color=0d1117" />
+<div align="center">
+ <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=erdinccurebal&show_icons=true&count_private=true&hide_border=true&title_color=149414&icon_color=149414&text_color=c9d1d9&bg_color=0d1117" alt="erdinccurebal github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdinccurebal&layout=compact&hide_border=true&title_color=149414&text_color=149414&bg_color=0d1117" />
 </div>
 
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=erdinccurebal&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=149414&fire=149414&currStreakLabel=149414" alt="Erdinç Cürebal" /></div>
