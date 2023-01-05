@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Erdinç+Cürebal;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THANK+YOU+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=erdinccurebal&theme=github&hide_border=true&area=true&line=2b5329&color=149414&point=9ccc9c" />
-</div> 
 
 <div align="center">
  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=erdinccurebal&show_icons=true&count_private=true&hide_border=true&title_color=149414&icon_color=149414&text_color=c9d1d9&bg_color=0d1117" alt="erdinccurebal github stats" /> 
